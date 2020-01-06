@@ -1,8 +1,8 @@
-# Disney-Like
-    I have decided that I'd like to know if an AI can write Disney songs which are indistinguishable to the average human from those written for Disney or Disney affiliates (ie Pixar) by employees (lyracists).  
+# Disney-Like: An Exploration 
+* I have decided that I'd like to know if an AI can write Disney songs which are indistinguishable to the average human from those written for Disney or Disney affiliates (ie Pixar) by employees (lyracists).  If not, what do we get?  
 
 ## Description of data source
-    Data scraped using a python 3 script from [All the  Lyrics](allthelyrics.com) and initially stored in a csv file. 
+* Data scraped using a python 3 script from [All the  Lyrics](allthelyrics.com) and initially stored in a csv file. 
 
 ## Expected data cleaning steps to make the data useful for machine learning
    * Removal of duplicates and obviously non-Disney/affiliate songs. (ie. Barney's "I Love You")
@@ -18,11 +18,11 @@
    * GPT-2 runs on the big processors on Google Cloud (through Max Woolf’s gpt-2-simple colab notebook)
 
 ## What metrics you plan on using to evaluate the ml model 
-    Not Applicable for this Project.
+* Not Applicable for this Project.
     
 ## How you plan on demonstrating your model (web app, jupyter notebook)
-    Most likely a web app that takes a song prompt from the user, runs that prompt through the model and returns the AI-inspired song's lyrics, the song's title and a movie title that the song could potentially come from. 
+* Most likely a web app that takes a song prompt from the user, runs that prompt through the model and returns the AI-inspired song's lyrics, the song's title and a movie title that the song could potentially come from. 
 ## How you plan on training the model 
-    Colab, personal computer, other as necessary.
+* Colab, personal computer, other as necessary.
 
 ## Credits:  
