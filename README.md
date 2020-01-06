@@ -12,8 +12,8 @@
    * Save as a text file
 
 ## The machine learning models you plan on using
-    GPT-2 stands for “Generative Pretrained Transformer 2”: “Generative” means the model was trained to predict (or “generate”) the next token in a sequence of tokens in an unsupervised way. To see a bit how GPT-2 works, visit:[Talk To Transformer](https://talktotransformer.com).  
-   * I will be using [GP2-Simple](https://github.com/minimaxir/gpt-2-simple in [GP2 CoLab Research](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce?pli=1&authuser=1#scrollTo=H7LoMj4GA4n_)
+    > GPT-2 stands for “Generative Pretrained Transformer 2”: “Generative” means the model was trained to predict (or “generate”) the next token in a sequence of tokens in an unsupervised way. To see a bit how GPT-2 works, visit: [Talk To Transformer](https://talktotransformer.com) .  
+   * I will be using [GP2-Simple](https://github.com/minimaxir/gpt-2-simple) in [GP2 CoLab Research](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce?pli=1&authuser=1#scrollTo=H7LoMj4GA4n_)
    * GPT-2 is trained by OpenAI on 40GB of text from the internet. 
    * GPT-2 runs on the big processors on Google Cloud (through Max Woolf’s gpt-2-simple colab notebook)
 
